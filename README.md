@@ -4,7 +4,7 @@
     Hi there, I'm Karrissa
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
    </h1>
-    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif](https://media.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/4CT0HDGW75DSDOdxZR/giphy.gif"width="200"/>
     <div id="badges">
       <a href="https://www.linkedin.com/in/karrissavolcy/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,7 +14,7 @@
     
   </div>
 
----
+
 
 <!-- ### :woman_technologist: About Me : -->
 I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who believes in making a difference in society through technology!
