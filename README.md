@@ -27,12 +27,13 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 ### Recnt Projects:
 - [Chat Chat: an education site for language learning](https://github.com/RFE2207-Rivendell/blue-ocean)
 - [Chévere: E-Commerce site for latest fashion trends](https://github.com/FEC2-Integrally-Illuminatos/rfe-2207-fec2-integrally-illuminatos) 
-- [Research You: an app to help users find clinical research studies they may be eligible for](https://github.com/KARSE22/mvp)
+- [StudyFindr: an app to help users find clinical research studies they may be eligible for](https://github.com/KARSE22/mvp)
 - [System Design](https://github.com/depa-billaba/reviews-api)
 
 
 ### :hammer_and_wrench: Languages and Tools :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
