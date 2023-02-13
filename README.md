@@ -20,7 +20,7 @@
 I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who specializes in JavaScript, React, Node.js, and other popular front-end and back-end technologies. Through my work, I strive to create applications that are both engaging and practical. I'm always open to learning new technologies and finding new ways to improve my development skills. 
 
 - 🔭 I’m currently working on expanding my clinical research app
-- 🌱 I’m currently learning Python and React Native
+- 🌱 I’m currently learning TypeScript and GraphQL
 
 ---
 
